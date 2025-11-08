@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mis Datos</string>
+    <string name="app">Mis Datos APP</string>
+    <string name="nombre">Nombre: </string>
+    <string name="edad">Edad: </string>
+    <string name="carrera">Carrera: </string>
+    <string name="correo">Correo: </string>
+    <string name="btnMostrar">Mostrar mis datos</string>
+
+
+
+</resources>
